@@ -4,7 +4,7 @@ import { toast } from "react-toastify";
 
 // Создание экземпляра axios с базовым URL для API
 export const api = axios.create({
-  baseURL: "http://localhost:8000/api",
+  baseURL: "https://vite-app-kappa.vercel.app",
 });
 
 // Функция для получения всех свойств (residencies)
