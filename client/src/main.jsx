@@ -12,7 +12,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       domain="dev-crhzpoxoktd4yxf4.us.auth0.com" // Домен Auth0
       clientId="vIM8D9oMFCHJWQpsXVlgVk6jtWGXfgin" // Идентификатор клиента Auth0
       authorizationParams={{
-        redirect_uri: "https://vite-app-kappa.vercel.app" // Путь перенаправления после аутентификации
+        redirect_uri: "https://vite-app-alpha-six.vercel.app" // Путь перенаправления после аутентификации
       }}
       audience="http://localhost:8000" // Аудитория (какой ресурс вы запрашиваете у Auth0)
       scope="openid profile email" // Запрошенные разрешения
