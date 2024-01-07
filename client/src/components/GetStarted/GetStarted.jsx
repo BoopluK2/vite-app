@@ -8,7 +8,7 @@ const GetStarted = () => {
       <div className="paddings innerWidth g-container">
         <div className="flexColCenter inner-container">
           {/* Заголовок, который призывает пользователей начать использование сервиса */}
-          <span className="primaryText">Начни работу с &&</span>
+          <span className="primaryText">Начни работу с HOMYZ</span>
           
           {/* Текст, который описывает, как пользователи могут воспользоваться сервисом */}
           <span className="secondaryText">
